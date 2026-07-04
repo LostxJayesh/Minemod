@@ -96,6 +96,20 @@ Open the Minecraft chat console and configure your chosen provider:
 /minemod provider gemini
 ```
 
+### Step 3: Chat with Your Companion
+To interact with your companion in the game, open the standard Minecraft chat and address them directly using the following format:
+
+```text
+Companion, <Prompt>
+```
+
+**Examples:**
+* `Companion, follow me.`
+* `Companion, gather 24 oak_log.`
+* `Companion, craft a stone_pickaxe.`
+* `Companion, build a cottage.`
+
+
 ---
 
 ## ⌨️ Command Console Cheat-Sheet
