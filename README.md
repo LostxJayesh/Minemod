@@ -176,6 +176,3 @@ If the API returns an error or rate limit, MineMod automatically falls back to a
 
 ---
 
-<div align="center">
-  <sub>Developed by <b>Antigravity</b>. Built for builders, survivalists, and AI enthusiasts.</sub>
-</div>
