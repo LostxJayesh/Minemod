@@ -1,7 +1,7 @@
 # 🤖 MineMod — Advanced AI Companion for Minecraft Forge
 
 <div align="center">
-  <img src="https://i.postimg.cc/Wpy13XwF/logo.png" alt="MineMod Banner" width="50%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);" />
+  <img src="https://i.postimg.cc/Wpy13XwF/logo.png" alt="MineMod Banner" width="30%" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);" />
   
   <br/>
   
